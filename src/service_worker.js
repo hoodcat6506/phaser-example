@@ -1,10 +1,10 @@
 const CACHE_NAME = 'my-site-cache-v1';
 const urlsToCache = [
-  '/',
-  '/dist/main.js',
-  '/assets/images/particles/blue.png',
-  '/assets/images/skies/space3.png',
-  '/assets/images/sprites/phaser3-logo.png',
+  './',
+  './dist/main.js',
+  './assets/images/particles/blue.png',
+  './assets/images/skies/space3.png',
+  './assets/images/sprites/phaser3-logo.png',
 ];
 
 self.addEventListener('install', installHandler);
