@@ -1,0 +1,22 @@
+{
+    "name": "Phaser Example",
+    "short_name": "Phaser Example",
+    "icons": [
+        {
+            "src": "assets/images/icons/poo_192.png",
+            "type": "image/png",
+            "size": "192x192"
+        },
+        {
+            "src": "assets/images/icons/poo_512.png",
+            "type": "image/png",
+            "size": "512x512"
+        }
+    ],
+    "theme_color": "#ff0000",
+    "background_color": "#1c365c",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/"
+  }
